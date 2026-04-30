@@ -1,0 +1,8 @@
+Example Input
+Enter number of items: 3
+Enter weights: 10 20 30
+Enter values: 60 100 120
+Enter capacity: 50
+
+Output
+Maximum value you can get = 220
